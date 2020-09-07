@@ -7,5 +7,5 @@ Well, that's pretty obvious, right? It includes what has changed throughout each
 
 <h1>Developer notes</h1>
 Thanks for playing. I actually really do appreciate it. I don't know if the incremental community likes good ROBLOX tycoons, but I tried making a non-profit game. There is a donation center in the game. I only put it there for people that want to support me further. If you do donate however, thank you very much. You honestly don't need to, you just playing what I make makes my day.
-
+<br>
 Any developer product in my games or game passes won't be required to progress the game. I don't like to be those kind of people.
