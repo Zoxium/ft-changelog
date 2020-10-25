@@ -27,9 +27,13 @@ p {
     text-shadow: 0px 0px 5px rgb(255, 186, 57);
     font-family: MonospaceTypewriter;
 }
-
+.categoryText {
+    font-size: 15px;
+    color: white;
+    font-family: MonospaceTypewriter;
+}
 .changesText {
-    font-size: 12.5px;
+    font-size: 13px;
     transform: skewX(-5deg);
     font-family: MonospaceTypewriter;
 }
