@@ -1,3 +1,35 @@
+body {
+    background-color: rgb(41, 41, 41)
+}
+
 p {
-    color: red;
+    margin: auto;
+    color: white;
+}
+
+.versionText {
+    font-size: 35px;
+    text-shadow: 0px 0px 5px wheat;
+    color: wheat;
+    font-family: MonospaceTypewriter;
+}
+
+.dateText {
+    font-size: 27.5px;
+    color: rgb(253, 214, 141);
+    text-shadow: 0px 0px 5px rgb(253, 214, 141);
+    font-family: MonospaceTypewriter;
+}
+
+.quoteText {
+    font-size: 17.5px;
+    color: rgb(255, 186, 57);
+    text-shadow: 0px 0px 5px rgb(255, 186, 57);
+    font-family: MonospaceTypewriter;
+}
+
+.changesText {
+    font-size: 12.5px;
+    transform: skewX(-5deg);
+    font-family: MonospaceTypewriter;
 }
